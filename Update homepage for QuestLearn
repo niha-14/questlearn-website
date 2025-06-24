@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QuestLearn</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f7f9fc;
+      color: #333;
+    }
+    header {
+      background-color: #3b82f6;
+      color: white;
+      padding: 1rem 2rem;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    h1, h2 {
+      color: #1e40af;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to QuestLearn</h1>
+    <p>Your journey to smarter learning begins here.</p>
+  </header>
+
+  <main>
+    <h2>For Students</h2>
+    <p>Explore interactive modules, live sessions, and personalized learning plans designed just for you.</p>
+
+    <h2>For Visitors</h2>
+    <p>Discover what QuestLearn has to offer—demo our platform, read success stories, or get in touch to collaborate.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 QuestLearn. All rights reserved.
+  </footer>
+</body>
+</html>
